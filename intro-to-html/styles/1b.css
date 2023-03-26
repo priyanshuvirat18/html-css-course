@@ -1,0 +1,61 @@
+a:link,a:visited,a:active
+{
+    color:rgb(0,113,113);
+    font-size: 16px;
+    transition: color 0.15s;
+}
+a:hover
+{
+    color:rgb(219, 143, 2);   
+}
+
+.a
+{
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.b
+{
+    color: rgb(0,118,0);
+    font-weight: bold;
+}
+.Add:hover
+{
+    background-color: rgb(217, 185, 23);;
+}
+.Add:active
+{
+    opacity: 0.7;
+}
+.Add
+{
+    background-color: rgb(255,216,20);
+    color:black;
+     width:120px;
+     height: 35px;
+     border: none;
+     border-radius: 20px;
+    font-weight:bold;
+    transition: background-color 0.15s, opacity 0.15s;
+}
+.Buy:hover
+{
+    background-color: rgb(216, 140, 25);
+}
+.Buy:active
+{
+    opacity: 0.7;
+}
+.Buy
+{
+    background-color: rgb(255,164,28);
+    color:black;
+    width: 120px;
+    height: 35px;
+    border: none;
+    border-radius: 20px;
+    font-weight:bold;
+    margin-left: 8px;
+    transition: background-color 0.15s, opacity 0.15s;
+}

@@ -1,0 +1,79 @@
+.Tahoma
+    {
+        font-family: Tahoma;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .deals
+    {
+        font-family: Arial;
+        font-size: 30px;
+        font-weight: bolder;
+        margin-bottom: 10px;
+    }
+    .end
+    {
+        color: red;
+        font-style: italic;
+        font-size: 18px;
+        font-family: Arial;
+        margin-top: 0;  
+    }
+
+    .html
+    {
+        font-family: Verdana;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 0;
+    }
+
+    .begin
+    {
+        font-family: Verdana;
+        font-size: 14px;
+        color:grey;
+        margin-top:0;
+    }
+    .description
+    {
+        font-family: Verdana;
+        width:300px;
+    }
+    .Start
+    {
+        background-color: rgb(40, 124, 40);
+        color:white;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 16px;
+        padding-left: 16px;
+        border: none;
+        border-radius: 8px;
+    }
+    .shop
+    {
+        font-family: Arial;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .help
+    {
+        font-size: 16px;
+        font-family: Arial;
+        text-align: center;
+        margin-bottom: 25px;
+        
+    }
+    .learn
+    {
+        font-family: Arial;
+        font-size:16px;
+        text-align: center;
+        color: rgb(0, 132, 255);
+        margin-top: 0;
+    }

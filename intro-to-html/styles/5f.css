@@ -1,0 +1,33 @@
+    p
+    {
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .value
+    {
+        font-size: 32px;
+        margin-bottom: 5px;
+    }
+    .usd
+    {
+        color: gray;
+        font-size: 18px;
+    }
+    .change
+    {
+        font-size: 16px;
+        color: green;
+        margin-bottom: 8px;
+    }
+    .hr
+    {
+        color: gray;
+        font-size: 16px;
+        margin-bottom:5px ;
+    }
+    .perc
+    {
+        color: red;
+        margin-left: 2px;
+    }
